@@ -1,0 +1,2 @@
+项目网关，作为springcloud的一部分通过nacos与core项目相连
+核心接口：com.fantansyDream.gateway.fantasyDreamgateway.demos.web.FileController#uploadMultipartFile
